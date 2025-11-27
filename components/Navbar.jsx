@@ -1,0 +1,1 @@
+export default function Navbar(){return <header><div>Navbar</div></header>}
